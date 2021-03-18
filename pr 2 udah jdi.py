@@ -1,4 +1,4 @@
-print("NAMA : riki purnama g.s \nNIM  : TI17200043 \nProdi: teknik informatiika (A)")
+print("NAMA : m. Zulwawan \nNIM  : TI17200025 \nProdi: teknik informatiika (A)")
 
 def tinggi_gedung():
     print("\ntinggi = 100m, naik = 5m, merosot = 4m\n")
